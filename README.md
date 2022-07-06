@@ -12,4 +12,5 @@ This script works with a cache.txt file that in this file possible correct words
 
 Another neccesary file for running this script is 5letterwords.txt . This file is a word list of all 5-letter words. (Because the game is usualy played in 5-letter mode). Of course it can be played in other modes like 4-letter or 6-letter and the script will also function as good as the 5-letter mode.
 
+The script doesn't look professional but it do the work :)
 Hope you like it
