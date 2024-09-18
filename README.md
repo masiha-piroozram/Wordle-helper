@@ -1,16 +1,23 @@
-# Wordle-solver
-This python script will help you guess the words!
-This program is based on 3 function in total.
+### Wordle Helper 🧩
+Welcome to Wordle Helper! This handy tool is designed to assist you in cracking those tricky 5-letter word puzzles. Whether you’re stuck on a particular word or just want to improve your guessing game, Wordle Helper has got you covered.
+### Features ✨
+Correct Letter in Correct Place: Enter a letter and its correct position to filter words.
+Wrong Letters: Input letters that are definitely not in the word to narrow down your options.
+Correct Letter in Wrong Place: Specify a letter and a position where it doesn’t belong to refine your guesses.
+### How to Use 🛠️
+Clone the Repository:
+git clone https://github.com/yourusername/wordle-helper.git
+cd wordle-helper
 
-1st, wrong_letter(wrong letter); with this function you enter a letter that is incorrect.
+**Install Dependencies:** Make sure you have Python installed. This project uses the tkinter library, which is included with Python.
+**Prepare Your Word List:**
+Ensure you have a file named 5letterwords.txt in the same directory. This file should contain a list of 5-letter words, one per line.
+**Run the Application:**
+python wordle_helper.py
 
-2nd, correct_letter(correct letter , wrong place of the correct letter); this function takes two inputs. One is the correct letter that is in the wrong place and the wrong place of the correct letter.
+**Start Guessing:**
+Use the input fields and buttons to filter words based on your guesses.
+The results will be displayed in the scrollable text box.
 
-3rd, correct_letter_place(correct letter , correct place of the correct letter); this function also takes two inputs. One is the correct letter that is in the correct place and the correct place of the correct letter.
 
-This script works with a cache.txt file that in this file possible correct words are stored and everytime you give new information to the program it will be updated.
-
-Another neccesary file for running this script is 5letterwords.txt . This file is a word list of all 5-letter words. (Because the game is usualy played in 5-letter mode). Of course it can be played in other modes like 4-letter or 6-letter and the script will also function as good as the 5-letter mode.
-
-The script doesn't look professional but it do the work :)
-Hope you like it
+Enjoy solving your Wordle puzzles with ease! If you have any questions or run into issues, don’t hesitate to open an issue on GitHub. Happy puzzling! 🎉
