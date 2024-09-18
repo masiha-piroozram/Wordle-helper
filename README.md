@@ -6,9 +6,10 @@ Welcome to Wordle Helper! This handy tool is designed to assist you in cracking 
 - Correct Letter in Wrong Place: Specify a letter and a position where it doesn’t belong to refine your guesses.
 ### How to Use 🛠️
 **Clone the Repository:**
-git clone https://github.com/yourusername/wordle-helper.git
-cd wordle-helper
-
+ ```
+ git clone https://github.com/yourusername/wordle-helper.git
+ cd wordle-helper
+```
 **Install Dependencies:** Make sure you have Python installed. This project uses the tkinter library, which is included with Python.
 **Prepare Your Word List:**
 Ensure you have a file named 5letterwords.txt in the same directory. This file should contain a list of 5-letter words, one per line.
