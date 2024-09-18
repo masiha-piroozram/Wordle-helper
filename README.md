@@ -13,7 +13,7 @@ Whether you're stuck on a particular word or just want to improve your guessing 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/masiha-piroozram/Wordle-solver/
+    git clone https://github.com/masiha-piroozram/Wordle-helper/
     cd wordle-helper
     ```
 
