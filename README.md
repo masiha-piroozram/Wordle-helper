@@ -32,14 +32,4 @@ Whether you're stuck on a particular word or just want to improve your guessing 
     - Use the input fields and buttons to filter words based on your guesses.  
     - The results will be displayed in the scrollable text box.
 
-## Screenshots 📸
-
-!Wordle Helper Screenshot
-
-## Contributing 🤝
-
-Feel free to fork this repository and submit pull requests. Any improvements or suggestions are welcome!
-
-## License 📜
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+Hope you like it!
