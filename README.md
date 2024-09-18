@@ -5,7 +5,7 @@ Correct Letter in Correct Place: Enter a letter and its correct position to filt
 Wrong Letters: Input letters that are definitely not in the word to narrow down your options.
 Correct Letter in Wrong Place: Specify a letter and a position where it doesn’t belong to refine your guesses.
 ### How to Use 🛠️
-Clone the Repository:
+**Clone the Repository:**
 git clone https://github.com/yourusername/wordle-helper.git
 cd wordle-helper
 
