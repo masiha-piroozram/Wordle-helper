@@ -1,9 +1,9 @@
 ### Wordle Helper 🧩
 Welcome to Wordle Helper! This handy tool is designed to assist you in cracking those tricky 5-letter word puzzles. Whether you’re stuck on a particular word or just want to improve your guessing game, Wordle Helper has got you covered.
 ### Features ✨
-Correct Letter in Correct Place: Enter a letter and its correct position to filter words.
-Wrong Letters: Input letters that are definitely not in the word to narrow down your options.
-Correct Letter in Wrong Place: Specify a letter and a position where it doesn’t belong to refine your guesses.
+- Correct Letter in Correct Place: Enter a letter and its correct position to filter words.
+- Wrong Letters: Input letters that are definitely not in the word to narrow down your options.
+- Correct Letter in Wrong Place: Specify a letter and a position where it doesn’t belong to refine your guesses.
 ### How to Use 🛠️
 **Clone the Repository:**
 git clone https://github.com/yourusername/wordle-helper.git
